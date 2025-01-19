@@ -1,10 +1,10 @@
 import React from "react";
 import StatCard from "./StatCard";
+import shoppingBag from "../../public/Images/shopping-bag.svg"
+import settingImg from "../../public/Images/settings.svg"
+import cartImg from "../../public/Images/shopping-cart.svg"
+import userImg from "../../public/Images/users.svg"
 
-import shoppingBag from "../../public/images/shopping-bag.svg";
-import settingImg from "../../public/images/settings.svg";
-import cartImg from "../../public/images/shopping-cart.svg";
-import userImg from "../../public/images/users.svg";
 
 const statsArray = [
   {
